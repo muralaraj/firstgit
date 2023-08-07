@@ -1,0 +1,64 @@
+1) Spring Introduction Overview
+     a) Introduction
+     b) SpringFramework modules 
+2) Settingup your development Environment
+   a) JavaInstallations
+   b) Eclips
+   c) Tomcatinstall and classpath
+   d) Spring5 jars files and Installations[repo.spring.io/release]
+3) Fundamentals of SptingFramework
+   a) Spring architecture
+   b) Why SpringFramework  is LightWeight?
+   c) What is POJO and POJI Model?
+   d) What is IOC Container
+   e) What is Dependency Injection?
+   f) What is Tight Coupling?
+   g) What is Loose Coupling?
+   h) What is AutoWiring?
+4) Spring Framework First Program
+5) Spring Framework Annotations
+      @Component
+      @Configuration
+      @ComponentScan
+      @Override
+      @Autowired 
+      @Qualifier
+      @Bean
+      @Value
+      @Primary      
+      @Required
+      @PropertySource     
+     
+6) Spring Dependency Injection - XML Configuration
+  a) constructor Injection
+  b) setter Injection
+
+7) spring Configuration with java Annotations (IOC)
+Q) What is annotation
+	In the java computer programming language, an annotation is a form of syntactic maetadata that can be added to java source code 
+	a) constructor Injection[@Autowired]
+  	b) setter Injection[@Autowired]
+	c) ourmethod injection[@Autowired]
+  	d) field injection[@Autowired]
+	e) @Qualifier("happyservice")
+
+8) Spring configuration with javacode(no XML)
+	a) define configuration files
+	b) @Bean
+9) Spring MVC
+	a) Overview of MVC
+	b) Execution process of  MVC
+	c) MVC Component
+	d) download jars and configurations
+10) creating controls and views in MVC
+	a) 
+
+
+
+
+
+
+
+
+
+
